@@ -7,11 +7,12 @@ import { motion } from 'motion/react';
 import { ArrowUpRight } from 'lucide-react';
 
 const apps = [
+  { name: 'Elio', url: 'https://elio-tawny.vercel.app/', hoverBg: 'bg-indigo-600' },
+  { name: 'Kuantia', url: 'https://kuantia.vercel.app/', hoverBg: 'bg-amber-500' },
+  { name: 'Hitzkideak', url: 'https://hitzkideak.vercel.app/', hoverBg: 'bg-purple-600' },
+  { name: 'Zinok', url: 'https://zinok.vercel.app/', hoverBg: 'bg-rose-600' },
   { name: 'Teusk', url: 'https://teusk.vercel.app/', hoverBg: 'bg-blue-600' },
   { name: 'Hizterm', url: 'https://hizterm.vercel.app/', hoverBg: 'bg-emerald-600' },
-  { name: 'Kuantia', url: 'https://kuantia.vercel.app/', hoverBg: 'bg-amber-500' },
-  { name: 'Zinok', url: 'https://zinok.vercel.app/', hoverBg: 'bg-rose-600' },
-  { name: 'Elio', url: 'https://elio-tawny.vercel.app/', hoverBg: 'bg-indigo-600' },
 ];
 
 const containerVariants = {
