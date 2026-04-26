@@ -13,6 +13,8 @@ const apps = [
   { name: 'Zinok', url: 'https://zinok.vercel.app/', hoverBg: 'bg-rose-600' },
   { name: 'Teusk', url: 'https://teusk.vercel.app/', hoverBg: 'bg-blue-600' },
   { name: 'Hizterm', url: 'https://hizterm.vercel.app/', hoverBg: 'bg-emerald-600' },
+  { name: 'Hitzapasa', url: 'https://hitzapasa.vercel.app/', hoverBg: 'bg-cyan-600' },
+  { name: 'Dominoa', url: 'https://dominoa.vercel.app/', hoverBg: 'bg-orange-600' },
 ];
 
 const containerVariants = {
